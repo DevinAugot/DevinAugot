@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, Learning new coding languages, gaming, or anything to do with the outdoors! :)
 - 🌱 I’m currently a student in the Software Dev program at Keyin college
 - 💞️ I’m looking to collaborate on anything that will expand my general knowledge of coding
-- 📫 How to reach me ...
+- 📫 How to reach me ...Devin.Augot@keyin.com or daugot22@gmail.com and also Devin Augot on LinkedIn
 
 <!---
 DevinAugot/DevinAugot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
