@@ -14,3 +14,8 @@ You can click the Preview link to take a look at your changes.
 ![DevinAugot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevinAugot&theme=vue-dark&hide_border=true)
 
 ![DevinAugot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevinAugot&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/DevinAugot=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
